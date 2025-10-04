@@ -1,22 +1,17 @@
-# 📊 Project: Complex API 
+# Dragon Ball Jikan API and Dragon Ball API
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+This project gets a Dragon Ball characters name and maxKi (power level) from the Dragon Ball API, and in the Jikan API it gets that characters name from the Dragon Ball API and uses the Jikan API to put an about description in the frontend of every characters! 
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:**: HTML, CSS, and JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I used html for the markup, css for the styling, andI used Javascript for the logic of this project.
+
+## Lessons Learned:
+
+I learned how to delay each request sent to the API by 1 second using the new Promise javascript object.  
+
+## Image of Project:
+
+![Dragon Ball Project image](dbz.jpg)

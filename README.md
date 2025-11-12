@@ -4,7 +4,7 @@ This project gets a Dragon Ball characters name and maxKi (power level) from the
 
 ## How It's Made:
 
-**Tech used:**: HTML, CSS, and JavaScript
+**Tech used:** HTML, CSS, and JavaScript
 
 I used html for the markup, css for the styling, andI used Javascript for the logic of this project.
 
